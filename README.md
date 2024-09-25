@@ -1,4 +1,3 @@
-# Menu Driven Program
 /*Write a menu-driven program using the switch case statement in 
 C to check whether a number is: (i) Even number or Odd number,
  (ii) Two digit positive number or not, (iii) Multiple of 5 or not*/
@@ -27,6 +26,6 @@ C to check whether a number is: (i) Even number or Odd number,
 		 } 
 
 		 printf("\n========DONE BY:========\n\tANSHIKA\n\tBHUMIKA TEWATIYA\n\tHIMANSHU\n\tKRITIKA");
-		 return 0;
+		 return 0;
 		
-	 }
+	 }
