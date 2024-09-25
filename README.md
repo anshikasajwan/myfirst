@@ -1,4 +1,4 @@
-# Myfirst
+# Menu Driven Program
 /*Write a menu-driven program using the switch case statement in 
 C to check whether a number is: (i) Even number or Odd number,
  (ii) Two digit positive number or not, (iii) Multiple of 5 or not*/
